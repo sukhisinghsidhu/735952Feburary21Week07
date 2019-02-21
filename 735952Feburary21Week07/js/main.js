@@ -10,6 +10,13 @@ var bird= {
     deadly:false
 };
 
+var cities = ['Toronto',
+    'Ajax',
+    'Maple',
+    'Richmond Hill',
+    'Stouffvile',
+    'Whitby'];
+
 var bear = {
     genus: "ursus",
     species: "arctos",
@@ -19,4 +26,4 @@ var bear = {
     maxOffspring: 3,
     noisy: true,
     deadly: false
-}
+};
